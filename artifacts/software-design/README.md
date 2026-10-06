@@ -10,7 +10,7 @@ This section provides both the original artifact and the enhanced version so tha
 
 ## Artifacts
 
-- Original CS 360 Inventory Management Application
+- Initial CS 360 Inventory Management Application
 - Enhanced CS 360 Inventory Management Application
 
 ## Enhancement Narrative
