@@ -12,8 +12,8 @@ This section provides both the original artifact and the enhanced version so tha
 
 ## Artifacts
 
-- Initial CS 370 Treasure Hunt Intelligent Agent
-- Enhanced CS 370 Treasure Hunt Intelligent Agent
+- [Initial CS 370 Treasure Hunt Intelligent Agent](TreasureHuntGame%20(Initial).zip)
+- [Enhanced CS 370 Treasure Hunt Intelligent Agent](TreasureHuntGame%20(Enhanced).zip)
 
 ## Enhancement Narrative
 
