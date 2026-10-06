@@ -10,7 +10,7 @@ Placeholder for the Self-Assessment.
 
 My code review examines the original artifacts selected for enhancement and identifies opportunities to improve their functionality, design, algorithms, data structures, database implementation, and security.
 
-## Software Design and Engineering
+## [Software Design and Engineering](artifacts/software-design/)
 
 **Artifact:** CS 360 Inventory Management Android Application
 
