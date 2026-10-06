@@ -10,7 +10,7 @@ This section provides both the original artifact and the enhanced version so tha
 
 ## Artifacts
 
-- [Original CS 360 Inventory Management Application](AndrewDePasqualeInventoryApp(Initial).zip)
+- [Initial CS 360 Inventory Management Application](AndrewDePasqualeInventoryApp(Initial).zip)
 - [Enhanced CS 360 Inventory Management Application](AndrewDePasqualeInventoryApp(Enhanced).zip)
 
 ## Enhancement Narrative
