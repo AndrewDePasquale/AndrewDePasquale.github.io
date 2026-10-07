@@ -16,13 +16,13 @@ My code review examines the original artifacts selected for enhancement and iden
 
 This artifact demonstrates my skills in software design and engineering through enhancements to an Android inventory management application originally developed in CS 360: Mobile Architecture and Programming.
 
-## Algorithms and Data Structures
+## [Algorithms and Data Structures](artifacts/algorithms/)
 
 **Artifact:** CS 370 Treasure Hunt Intelligent Agent
 
 This artifact demonstrates my skills in algorithms and data structures through enhancements to a reinforcement learning application originally developed in CS 370: Current and Emerging Trends in Computer Science.
 
-## Databases
+## [Databases](artifacts/databases/)
 
 **Artifact:** CS 465 Travlr Getaways Application
 
