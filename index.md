@@ -22,11 +22,9 @@ The artifacts presented in this ePortfolio demonstrate these abilities across th
 
 Although each artifact emphasizes a different area, together they demonstrate how the skills developed throughout the Computer Science program are connected. Effective software requires more than knowledge of a single programming language or technology. Software engineering practices provide the structure for building and maintaining applications, algorithms determine how problems and data are processed, databases provide reliable access to persistent information and security considerations help protect the application and its users. The enhancements presented in this portfolio demonstrate my growth in these areas and represent the foundation I will continue to build upon as I pursue a career in software development.
 
-## Code Review
+## [Code Review](https://youtu.be/ASr5_5_AHN0)
 
 My code review examines the original artifacts selected for enhancement and identifies opportunities to improve their functionality, design, algorithms, data structures, database implementation, and security.
-
-[Watch My Code Review](https://youtu.be/ASr5_5_AHN0)
 
 ## [Software Design and Engineering](artifacts/software-design/)
 
