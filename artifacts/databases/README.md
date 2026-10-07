@@ -38,3 +38,15 @@ Enhancing this artifact taught me that database development involves more than s
 I also gained a better understanding of database indexing. The original application already contained indexes on two fields, so adding additional indexes without considering how the application searches its data would not necessarily improve the design. Connecting the new resort index to the resort filtering capability helped me understand how indexing decisions should be based on actual query requirements. I also learned that performance results need to be interpreted carefully. Because the Travlr database contains only a small number of records, it would not be appropriate to use this test to conclude that the new index produces a measurable improvement in query speed.
   
 One challenge I encountered was setting up and testing the full stack application on a different computer. I had just switched to a new laptop and the project required the Node.js and Angular dependencies, MongoDB service, original trip data and authentication to be configured before the enhanced database functionality could be tested completely. Once the environment was working, I tested the code, name and resort filters individually and tested both valid and invalid database operations. Working through these issues reinforced how the database is connected to the other components of a full stack application and how changes need to be tested without disrupting existing functionality. Overall, the enhancement strengthened the original Travlr Getaways application while expanding my understanding of database validation, controlled queries, indexing, error handling and secure data management.
+
+
+## Running the Application
+
+The project dependencies are not included in the artifact files. After extracting the project, install the required dependencies before running the application.
+
+From the root Travlr project directory, run: npm install
+
+Afterward, perform the following:
+
+- cd app_admin
+- npm install
