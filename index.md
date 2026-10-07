@@ -26,6 +26,8 @@ Although each artifact emphasizes a different area, together they demonstrate ho
 
 My code review examines the original artifacts selected for enhancement and identifies opportunities to improve their functionality, design, algorithms, data structures, database implementation, and security.
 
+[Watch My Code Review](https://youtu.be/ASr5_5_AHN0)
+
 ## [Software Design and Engineering](artifacts/software-design/)
 
 **Artifact:** CS 360 Inventory Management Android Application
