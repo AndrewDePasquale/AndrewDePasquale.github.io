@@ -12,8 +12,8 @@ This section provides both the original artifact and the enhanced version so tha
 
 ## Artifacts
 
-- Initial CS 465 Travlr Getaways Application
-- Enhanced CS 465 Travlr Getaways Application
+- [Initial CS 465 Travlr Getaways Application](travlr%20(Initial).zip)
+- [Enhanced CS 465 Travlr Getaways Application](travlr%20(Enhanced).zip)
 
 ## Enhancement Narrative
 
