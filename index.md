@@ -1,4 +1,4 @@
-# Andrew DePasquale's Computer Science ePortfolio
+# Computer Science ePortfolio
 
 Welcome to my Computer Science ePortfolio. This portfolio represents my growth throughout the Computer Science program at Southern New Hampshire University and demonstrates my skills in software design and engineering, algorithms and data structures, databases, and secure software development.
 
